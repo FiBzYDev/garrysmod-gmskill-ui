@@ -9,3 +9,6 @@ UI
 ![20240131025208_1](https://github.com/FiBzYDev/garrysmod-gmskill-ui/assets/58349075/675a8ab2-4f07-4a80-aafc-fc5fc3225356)
 
 
+Instructions
+
+Delete garrysmod/resource and garrysmod/html place new folder in.
