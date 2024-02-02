@@ -12,3 +12,5 @@ UI
 Instructions
 
 Delete garrysmod/resource and garrysmod/html place new folder in.
+
+Remove backgrounds folder in garrysmod/
